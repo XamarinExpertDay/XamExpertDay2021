@@ -1,5 +1,5 @@
 ### Adding authentication to your mobile app   
-**Mark Allibone**   
+**Mark Allibone** [@mallibone](https://twitter.com/mallibone)  
 So writing .Net mobile apps allows your customers to enjoy them on the go with their iOS and Android devices. But let's face it what is a business app these days without proper authentication? And adding a can be an intimidating thought at first. This session will look at how you can implement authentication using the OpenID Connect & OAuth standard in your mobile apps. We will look at credentials and how we can keep the user authenticated even without having to ask for credentials over and over. So let's make sure your authentication security is just as pleasing to your customer as the rest of the app.  
    
    
@@ -24,28 +24,23 @@ Ideally I would like to have a play with testing bits in MAUI before the time th
 **Konrad Müller** - [@KonMue](https://twitter.com/konmue)  
 In this session, we will take a look at the desktop development updates MAUI will bring to us and take a peek at other modern ways to develop for desktop with .NET. Get ready for a session full of old and new friends like UWP, WPF, Mac Catalyst, Blazor, PWAs and more!   
 
-   
-### Building desktop apps using .NET MAUI and Blazor  
-**Daniel Hindrikes** - [@Hindrikes](https://twitter.com/hindrikes)
-.NET MAUI will introduce a new Hybrid approach to building apps, similar to what you can do with Electron, but with .NET. With the BlazorWebView you can build apps where you can reuse the components you have built for your Blazor websites. You can also access the native APIs of the platform. This session will show you how you can use the new BlazorWebView to build an awesome app using this hybrid approach.  
-We will use code and components from our website and use native features to build a great user experience.  
-Finally, we will look at when to choose web components over native APIs and the other way around.  
-  
+ 
    
 ### Creating PDF files in mobile apps with PdfSharpCore and MigraDocCore
-**Luis Beltran**  
+**Luis Beltran** - [@darkicebeam](https://twitter.com/darkicebeam)   
 PDFsharpCore and MigraDocCore are Open Source .NET libraries that can be used to easily create and processes PDF documents on the fly in our Xamarin applications.  
   
 Handling documents with paragraphs, tables, styles, images, etc. and rendering them into PDF is possible with these libraries for free even in commercial applications, so in this session we'll see what it takes to develop a mobile application that creates PDF documents in several scenarios.  
   
-   
-### Do you know your users?  
-**Codrina Merigo** - [@&#95;Codrina&#95;](https://twitter.com/_Codrina_)
-Are you a Xamarin Dev and want to go beyond coding? In this session, you will learn how to use Analytics to get to know your users and predict the next features in order to create a winning app!   
 
+### There's more to Xamarin than UI, let's do some background magic with Shiny.NEt     
+**Allan Ritchie** - [@allanritchie911](https://twitter.com/allanritchie911)     
+Shiny 2.0 makes working with background tasks & device services a snap.  In this session, we'll take a look at how to setup our project to use Shiny, do some basic background jobs and take a look at what else Shiny has to offer   
+      
+   
 
 ### From WPF to MAUI: a porting of a web server based GUI   
-**Daniele Fontani**  
+**Daniele Fontani** - [@zeppaman](https://twitter.com/zeppaman)   
 **Andrea Marcelli**  
 In this talk, we will present the real use case of porting a WPF Windows application to MAUI.  
   
@@ -57,18 +52,18 @@ We will see all the compatibility issues and the steps for update the project an
 
    
 ### Porting your Custom Renderer to Handler   
-**Pedro Jesus**
+**Pedro Jesus** - [@pj_souz](https://twitter.com/pj_souz)   
 .NET MAUI introduced a new architecture for controls, I'm talking about Handlers! This talk will show you how you can migrate your Renderers to Handlers and take advantave of all goodness!  
 
    
 ### Improving the UX of our Xamarin Forms Apps   
-**Charlin Agramonte**  
-**Rendy Del Rosario**  
+**Charlin Agramonte** - [@Chard003](https://twitter.com/Chard003)  
+**Rendy Del Rosario** - [@rdelrosario](https://twitter.com/rdelrosario)  
 User experience is one of the most important areas to have in consideration when developing Mobile Applications. The ideal scenario is to have a UI/UX expert as part of our team that will address this concern, but what happens if we don't have one? In this talk, we are going to show you some tips on how to improve the UX of your Xamarin Forms App, so that you can deliver a better user experience to your users.  
 
    
 ### MVVM vs MVU   
-**Sam Basu**   
+**Sam Basu** - [@samidip](https://twitter.com/samidip)     
 Depending on who you ask, Design Patterns are either dead or super useful. Design patterns are supposed to make sense, fit the app/platform/framework naturally and make life easier for developers. Anything else, and we’re likely doing it wrong.  
   
 Let’s explore two rather popular design patterns – MVVM & MVU, and pitch them against each other. .NET mobile/desktop stacks prefer MVVM, web technologies like Blazor/JS SPA are more natural fits with MVU, and .NET MAUI welcomes both. How much of the design pattern is open to interpretation? How much is baked in, when do you bring in frameworks and how is the tooling/ecosystem? This will be an honest fight for developer productivity – you game?  
@@ -85,19 +80,19 @@ Come join me on the journey to building accessible apps, and learn more about ho
 
    
 ### Validation Rules for Xamarin   
-**Luis Matos**
+**Luis Matos** - [@luismatosluna](https://twitter.com/luismatosluna)
 Today we are seeing how Validation Rules can be used to improve the experience offered to users from different contexts. It is time to improve the quality of your data using validation rules in Xamarin Forms. Validation rules verify that the input a user enters in a record meets the standards you specify before the user can save the record.  
   
 Now it’s time to get the next level!  
 
    
 ### Raspberry-Pi hand sanitizer controlled by Mobile Apps   
-**Saamer Mansoor**
+**Saamer Mansoor** - [@Saamerm](https://twitter.com/Saamerm)   
 A walkthrough where attendees will learn about IoT, connecting software with electronics, and setting up a Raspberry pi device so that it can be controlled using iOS & Android mobile apps.   
 
    
 ### MAUI Blazor - One App that runs everywhere   
-**Jose Javier Columbie**
+**Jose Javier Columbie** - [@jjcolumbie](https://twitter.com/jjcolumbie)
 Did you know you can now host Blazor components in .NET MAUI apps to build cross-platform native apps? In this introductory session we will cover everything you need to get your app running everywhere. Yes, MAUI Blazor apps can run in Windows, Mac, iOS, and Android. If you like Blazor you will love MAUI.   
 
    
