@@ -30,10 +30,12 @@ The sessions are in chronological order.
 So writing .Net mobile apps allows your customers to enjoy them on the go with their iOS and Android devices. But let's face it what is a business app these days without proper authentication? And adding a can be an intimidating thought at first. This session will look at how you can implement authentication using the OpenID Connect & OAuth standard in your mobile apps. We will look at credentials and how we can keep the user authenticated even without having to ask for credentials over and over. So let's make sure your authentication security is just as pleasing to your customer as the rest of the app.  
    
    
+   
 ### Drawn controls in .NET MAUI   
 **Javier Suárez Ruiz** - [@JSuarezRuiz](https://twitter.com/JSuarezRuiz)    
-In this session we are going to learn all the basics of .NET MAUI Graphics, a new cross-platform graphics library included with .NET MAUI as well as use this library to create fully drawn controls. We will see what advantages brings this new way of creating controls and we will analyze concepts such as performance and other related aspects.  
-
+In this session we are going to learn all the basics of .NET MAUI Graphics, a new cross-platform graphics library included with .NET MAUI as well as use this library to create fully drawn controls. We will see what advantages brings this new way of creating controls and we will analyze concepts such as performance and other related aspects.    
+   
+   
    
 ### Building a mobile game with Xamarin.Forms   
 **Shaun Lawrence** - [@Bijington](https://twitter.com/Bijington)   
@@ -94,42 +96,47 @@ User experience is one of the most important areas to have in consideration when
 Depending on who you ask, Design Patterns are either dead or super useful. Design patterns are supposed to make sense, fit the app/platform/framework naturally and make life easier for developers. Anything else, and we’re likely doing it wrong.  
   
 Let’s explore two rather popular design patterns – MVVM & MVU, and pitch them against each other. .NET mobile/desktop stacks prefer MVVM, web technologies like Blazor/JS SPA are more natural fits with MVU, and .NET MAUI welcomes both. How much of the design pattern is open to interpretation? How much is baked in, when do you bring in frameworks and how is the tooling/ecosystem? This will be an honest fight for developer productivity – you game?  
-
+   
+   
    
 ### Building Accessible Apps with .NET MAUI   
-**Rachel Kang** - [@TheRachelKang](https://twitter.com/TheRachelKang) 
+**Rachel Kang** - [@TheRachelKang](https://twitter.com/TheRachelKang)    
 Come join me on the journey to building accessible apps, and learn more about how you can leverage new APIs in .NET MAUI to do so more easily than ever before!  
-
+   
+   
    
 ### Building Your Next .NET MAUI App   
-**David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)
+**David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)  
 .NET MAUI provides an extremely flexible and powerful way to create apps for Android, iOS, macOS, and Windows, from very simple to extremely robust and complex. Is this one size fits all? Where should you start? In this session I'll run through how you can quickly get started, and then grow your solution as you need to in order to optimize your productivity and still hit all your product requirements.  
-
+   
+   
    
 ### Validation Rules for Xamarin   
-**Luis Matos** - [@luismatosluna](https://twitter.com/luismatosluna)
+**Luis Matos** - [@luismatosluna](https://twitter.com/luismatosluna)     
 Today we are seeing how Validation Rules can be used to improve the experience offered to users from different contexts. It is time to improve the quality of your data using validation rules in Xamarin Forms. Validation rules verify that the input a user enters in a record meets the standards you specify before the user can save the record.  
   
 Now it’s time to get the next level!  
-
+   
+   
    
 ### Raspberry-Pi hand sanitizer controlled by Mobile Apps   
 **Saamer Mansoor** - [@Saamerm](https://twitter.com/Saamerm)   
 A walkthrough where attendees will learn about IoT, connecting software with electronics, and setting up a Raspberry pi device so that it can be controlled using iOS & Android mobile apps.   
-
+   
+   
    
 ### MAUI Blazor - One App that runs everywhere   
-**Jose Javier Columbie** - [@jjcolumbie](https://twitter.com/jjcolumbie)
+**Jose Javier Columbie** - [@jjcolumbie](https://twitter.com/jjcolumbie)   
 Did you know you can now host Blazor components in .NET MAUI apps to build cross-platform native apps? In this introductory session we will cover everything you need to get your app running everywhere. Yes, MAUI Blazor apps can run in Windows, Mac, iOS, and Android. If you like Blazor you will love MAUI.   
-
+   
+   
    
 ### Hello, .NET MAUI Expert Day!   
-**Maddy Leger** - [@maddyleger1](https://twitter.com/maddyleger1)
+**Maddy Leger** - [@maddyleger1](https://twitter.com/maddyleger1)  
 It's not goodbye Xamarin, it's hello .NET MAUI! Maddy Leger, Xamarin - uhhh, .NET MAUI - Program Manager, will wrap up the "final" XamExpertDay with a look back on some of the major highlights over the past decade of Xamarin, and share some of her vision for the future of .NET!   
-
-
-
-
+   
+   
+   
 ------
 
 If you wish to rectify or complement any information send a message to [@ZeProgFactory](https://twitter.com/ZeProgFactory) or make a pull request ;-)
