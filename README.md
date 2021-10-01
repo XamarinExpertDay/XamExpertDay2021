@@ -62,7 +62,7 @@ In this session, we will take a look at the desktop development updates MAUI wil
 
 
 ### Building desktop apps using .NET MAUI and Blazor  
-**Daniel Hindrikes** - [@Hindrikes](https://twitter.com/hindrikes)
+**Daniel Hindrikes** - [@Hindrikes](https://twitter.com/hindrikes)   
 .NET MAUI will introduce a new Hybrid approach to building apps, similar to what you can do with Electron, but with .NET. With the BlazorWebView you can build apps where you can reuse the components you have built for your Blazor websites. You can also access the native APIs of the platform. This session will show you how you can use the new BlazorWebView to build an awesome app using this hybrid approach.  
 We will use code and components from our website and use native features to build a great user experience.  
 Finally, we will look at when to choose web components over native APIs and the other way around.  
@@ -80,7 +80,7 @@ Handling documents with paragraphs, tables, styles, images, etc. and rendering t
 
 
 ### Do you know your users?  
-**Codrina Merigo** - [@&#95;Codrina&#95;](https://twitter.com/_Codrina_)
+**Codrina Merigo** - [@&#95;Codrina&#95;](https://twitter.com/_Codrina_)   
 Are you a Xamarin Dev and want to go beyond coding? In this session, you will learn how to use Analytics to get to know your users and predict the next features in order to create a winning app!   
 
 
@@ -101,7 +101,7 @@ We will see all the compatibility issues and the steps for update the project an
 
 
 ### Porting your Custom Renderer to Handler   
-**Pedro Jesus**
+**Pedro Jesus**   
 .NET MAUI introduced a new architecture for controls, I'm talking about Handlers! This talk will show you how you can migrate your Renderers to Handlers and take advantave of all goodness!  
 
 
@@ -125,21 +125,21 @@ Let’s explore two rather popular design patterns – MVVM & MVU, and pitch the
 
 
 ### Building Accessible Apps with .NET MAUI   
-**Rachel Kang**
+**Rachel Kang**   
 Come join me on the journey to building accessible apps, and learn more about how you can leverage new APIs in .NET MAUI to do so more easily than ever before!  
 
 
 
 
 ### Building Your Next .NET MAUI App   
-**David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)
+**David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)   
 .NET MAUI provides an extremely flexible and powerful way to create apps for Android, iOS, macOS, and Windows, from very simple to extremely robust and complex. Is this one size fits all? Where should you start? In this session I'll run through how you can quickly get started, and then grow your solution as you need to in order to optimize your productivity and still hit all your product requirements.  
 
 
 
 
 ### Validation Rules for Xamarin   
-**Luis Matos**
+**Luis Matos**   
 Today we are seeing how Validation Rules can be used to improve the experience offered to users from different contexts. It is time to improve the quality of your data using validation rules in Xamarin Forms. Validation rules verify that the input a user enters in a record meets the standards you specify before the user can save the record.  
 
 Now it’s time to get the next level!  
@@ -148,21 +148,21 @@ Now it’s time to get the next level!
 
 
 ### Raspberry-Pi hand sanitizer controlled by Mobile Apps   
-**Saamer Mansoor**
+**Saamer Mansoor**   
 A walkthrough where attendees will learn about IoT, connecting software with electronics, and setting up a Raspberry pi device so that it can be controlled using iOS & Android mobile apps.   
 
 
 
 
 ### MAUI Blazor - One App that runs everywhere   
-**Jose Javier Columbie**
+**Jose Javier Columbie**   
 Did you know you can now host Blazor components in .NET MAUI apps to build cross-platform native apps? In this introductory session we will cover everything you need to get your app running everywhere. Yes, MAUI Blazor apps can run in Windows, Mac, iOS, and Android. If you like Blazor you will love MAUI.   
 
 
 
 
 ### Hello, .NET MAUI Expert Day!   
-**Maddy Leger**
+**Maddy Leger**   
 It's not goodbye Xamarin, it's hello .NET MAUI! Maddy Leger, Xamarin - uhhh, .NET MAUI - Program Manager, will wrap up the "final" XamExpertDay with a look back on some of the major highlights over the past decade of Xamarin, and share some of her vision for the future of .NET!   
 
 
