@@ -38,6 +38,7 @@ So writing .Net mobile apps allows your customers to enjoy them on the go with t
 In this session we are going to learn all the basics of .NET MAUI Graphics, a new cross-platform graphics library included with .NET MAUI as well as use this library to create fully drawn controls. We will see what advantages brings this new way of creating controls and we will analyze concepts such as performance and other related aspects.    
 
 [Recording](https://youtu.be/LPnh_r9l7pI)
+
 ---   
    
 ### Building a mobile game with Xamarin.Forms
@@ -76,6 +77,7 @@ PDFsharpCore and MigraDocCore are Open Source .NET libraries that can be used to
 Handling documents with paragraphs, tables, styles, images, etc. and rendering them into PDF is possible with these libraries for free even in commercial applications, so in this session we'll see what it takes to develop a mobile application that creates PDF documents in several scenarios.  
 
 [Recording](https://www.youtube.com/watch?v=y0wmCkF8iTM)
+
 ---   
    
 ### There's more to Xamarin than UI, let's do some background magic with Shiny.NEt     
@@ -83,6 +85,7 @@ Handling documents with paragraphs, tables, styles, images, etc. and rendering t
 Shiny 2.0 makes working with background tasks & device services a snap.  In this session, we'll take a look at how to setup our project to use Shiny, do some basic background jobs and take a look at what else Shiny has to offer   
 
 [Recording](https://www.youtube.com/watch?v=5f8Gruz28DM)
+
 ---   
    
 ### From WPF to MAUI: a porting of a web server based GUI   
@@ -102,6 +105,7 @@ We will see all the compatibility issues and the steps for update the project an
 .NET MAUI introduced a new architecture for controls, I'm talking about Handlers! This talk will show you how you can migrate your Renderers to Handlers and take advantage of all goodness!  
 
 [Recording](https://www.youtube.com/watch?v=bWdilOWAEt4)
+
 ---   
    
 ### Improving the UX of our Xamarin Forms Apps   
@@ -118,6 +122,7 @@ Depending on who you ask, Design Patterns are either dead or super useful. Desig
 Let’s explore two rather popular design patterns – MVVM & MVU, and pitch them against each other. .NET mobile/desktop stacks prefer MVVM, web technologies like Blazor/JS SPA are more natural fits with MVU, and .NET MAUI welcomes both. How much of the design pattern is open to interpretation? How much is baked in, when do you bring in frameworks and how is the tooling/ecosystem? This will be an honest fight for developer productivity – you game?  
 
 [Recording](https://www.youtube.com/watch?v=MtyNRW2zSyc)
+
 ---   
    
 ### Building Accessible Apps with .NET MAUI   
@@ -137,6 +142,7 @@ Come join me on the journey to building accessible apps, and learn more about ho
 [Blog](https://davidortinau.com/)  
   
 [Recording](https://www.youtube.com/watch?v=2wOlYwapNHY)
+
 ---   
    
 ### Raspberry-Pi Hand Sanitizer Controlled by Mobile Apps   
@@ -144,6 +150,7 @@ Come join me on the journey to building accessible apps, and learn more about ho
 A walkthrough where attendees will learn about IoT, connecting software with electronics, and setting up a Raspberry-Pi device so that it can be controlled using iOS & Android mobile apps.   
 
 [Recording](https://www.youtube.com/watch?v=f4aAyYPoi_o)
+
 ---   
    
 ### MAUI Blazor - One App that runs everywhere   
@@ -157,6 +164,7 @@ Did you know you can now host Blazor components in .NET MAUI apps to build cross
 It's not goodbye Xamarin, it's hello .NET MAUI! Maddy Leger, Xamarin - uhhh, .NET MAUI - Program Manager, will wrap up the "final" XamExpertDay with a look back on some of the major highlights over the past decade of Xamarin, and share some of her vision for the future of .NET!   
    
 [Recording](https://www.youtube.com/watch?v=mlAyNu-4VZM)
+
 ------
 
 If you wish to rectify or complement any information send a message to [@ZeProgFactory](https://twitter.com/ZeProgFactory) or make a pull request ;-)
