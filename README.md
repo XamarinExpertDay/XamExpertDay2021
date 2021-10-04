@@ -60,9 +60,11 @@ Ideally I would like to have a play with testing bits in MAUI before the time th
    
 ---   
    
-### An introduction to modern desktop app development with .NET and MAUI  
+### An Introduction to Modern Desktop App Development with .NET and MAUI  
 **Konrad Müller** - [@KonMue](https://twitter.com/konmue)  
 In this session, we will take a look at the desktop development updates MAUI will bring to us and take a peek at other modern ways to develop for desktop with .NET. Get ready for a session full of old and new friends like UWP, WPF, Mac Catalyst, Blazor, PWAs and more!   
+
+[Recording](https://youtu.be/OytyTna9qqk)
 
 [Slides](https://github.com/XamarinExpertDay/XamExpertDay2021/raw/main/modern-dotnet-desktop/konrad_mueller_dotnetdesktop_09_2021.pdf)
 
@@ -97,7 +99,10 @@ The project we present is the open-source app manager called [JSOS](https://gith
   
 JSOS is a tool for creating apps and overcome classical browser limitations. The initial version of JSOS was written in pure WPF with framework 3.1, but now MAUI is there and we decided to take all the advantages of MAUI!  
   
-We will see all the compatibility issues and the steps for update the project and this will lead to the best practices for converting projects to MAUI.  
+We will see all the compatibility issues and the steps for update the project and this will lead to the best practices for converting projects to MAUI.
+
+[Recording](https://youtu.be/Nv2AnaQWbPU)
+
 ---   
    
 ### Porting your Custom Renderer to Handler   
@@ -112,7 +117,9 @@ We will see all the compatibility issues and the steps for update the project an
 **Charlin Agramonte** - [@Chard003](https://twitter.com/Chard003)  
 **Rendy Del Rosario** - [@rdelrosario](https://twitter.com/rdelrosario)  
 User experience is one of the most important areas to have in consideration when developing Mobile Applications. The ideal scenario is to have a UI/UX expert as part of our team that will address this concern, but what happens if we don't have one? In this talk, we are going to show you some tips on how to improve the UX of your Xamarin Forms App, so that you can deliver a better user experience to your users.  
-   
+
+[Recording](https://youtu.be/JqPqTcXgTZw)
+
 ---   
    
 ### MVVM vs MVU   
@@ -129,6 +136,8 @@ Let’s explore two rather popular design patterns – MVVM & MVU, and pitch the
 **Rachel Kang** - [@TheRachelKang](https://twitter.com/TheRachelKang)    
 Come join me on the journey to building accessible apps, and learn more about how you can leverage new APIs in .NET MAUI to do so more easily than ever before!  
 
+[Recording](https://youtu.be/meDw7eYLPXQ)
+
 [Slides](https://github.com/XamarinExpertDay/XamExpertDay2021/raw/main/Rachel%20Kang%20-%20Building%20Accessible%20Apps%20with%20.NET%20MAUI/Building%20Accessible%20Apps%20with%20.NET%20MAUI%20-%20Rachel%20Kang.pdf)
 
 [GitHub](https://github.com/RachelKang)  
@@ -139,9 +148,9 @@ Come join me on the journey to building accessible apps, and learn more about ho
 **David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)  
 .NET MAUI provides an extremely flexible and powerful way to create apps for Android, iOS, macOS, and Windows, from very simple to extremely robust and complex. Is this one size fits all? Where should you start? In this session I'll run through how you can quickly get started, and then grow your solution as you need to in order to optimize your productivity and still hit all your product requirements.  
 
-[Blog](https://davidortinau.com/)  
-  
 [Recording](https://www.youtube.com/watch?v=2wOlYwapNHY)
+
+[Blog](https://davidortinau.com/)
 
 ---   
    
@@ -155,7 +164,9 @@ A walkthrough where attendees will learn about IoT, connecting software with ele
    
 ### MAUI Blazor - One App that runs everywhere   
 **Jose Javier Columbie** - [@JJColumbie](https://twitter.com/jjcolumbie)   
-Did you know you can now host Blazor components in .NET MAUI apps to build cross-platform native apps? In this introductory session we will cover everything you need to get your app running everywhere. Yes, MAUI Blazor apps can run in Windows, Mac, iOS, and Android. If you like Blazor you will love MAUI.   
+Did you know you can now host Blazor components in .NET MAUI apps to build cross-platform native apps? In this introductory session we will cover everything you need to get your app running everywhere. Yes, MAUI Blazor apps can run in Windows, Mac, iOS, and Android. If you like Blazor you will love MAUI.
+
+[Recording](https://youtu.be/tSyOcLctrpE)
    
 ---   
    
